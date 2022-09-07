@@ -1,5 +1,5 @@
 import './header-menu.css';
-import HeaderMenuItem from '../header-memu-item/header-menu-item';
+import HeaderMenuItem from '../header-menu-item/header-menu-item';
 
 const HeaderMenu = () => {
     return (
